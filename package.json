@@ -1,0 +1,10 @@
+{
+  "name": "powershell-runas",
+  "version": "v1.0.0-230310",
+  "license": "MIT",
+  "description": "Conjunto de scripts para execução de Powershell em computador remoto no domínio, com output no console principal",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
